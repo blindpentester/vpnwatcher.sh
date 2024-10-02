@@ -6,6 +6,9 @@ Maybe you'll find it useful.
 
 ---
 ## Instructions 
-> Set the OVPN file you want to be using in .sh file  
+> Set DNS for when behind VPN/TOR for DNS Leak protection  
+> Set local DNS for when off VPN/TOR  
+> Set the OVPN file you want to be using in .sh file
+> Set credential file you wish to use  
 > chmod +x vpnwatcher.sh  
 > ./vpnwatcher.sh  
